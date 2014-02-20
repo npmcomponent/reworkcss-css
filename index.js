@@ -1,3 +1,3 @@
 
-exports.parse = require('css-parse');
-exports.stringify = require('css-stringify');
+exports.parse = require('reworkcss-css-parse');
+exports.stringify = require('reworkcss-css-stringify');
